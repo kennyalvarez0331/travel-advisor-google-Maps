@@ -21,4 +21,7 @@ export default makeStyles(() => ({
   pointer: {
     cursor: 'pointer',
   },
+  typography: {
+    fontSize: '12px',
+  },
 }));
